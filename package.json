@@ -1,0 +1,26 @@
+{
+    "name": "essential-development-tools-extension-pack",
+    "displayName": "Essential Development Tools Extension Pack",
+    "description": "Essential tools for development in VS Code",
+    "version": "1.0.0",
+    "publisher": "RoyEshel",
+    "license": "MIT",
+    "repository": {
+    	"type": "git",
+    	"url": "https://github.com/RoyEshel/Essential-Development-Tools-Extension-Pack"
+    },
+    "engines": {
+        "vscode": "^1.91.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "VisualStudioExptTeam.vscodeintellicode",
+        "VisualStudioExptTeam.vscodeintellicode-completions",
+        "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-hebrew",
+        "mechatroner.rainbow-csv"
+    ]
+}
