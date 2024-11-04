@@ -1,9 +1,15 @@
 # Change Log
 
-All notable changes to the "essential-development-tools-extension-pack" extension pack will be documented in this file.
+## Extensions added to the pack  
+### v1.0.0
+- ```IntelliCode``` - ```Microsoft```
+- ```IntelliCode Completions``` - ```Microsoft``` 
+- ```IntelliCode API Usage Examples``` - ```Microsoft``` 
+- ```Code Spell Checker``` - ```Street Side Software```
+- ```Hebrew - Code Spell Checker``` - ```Street Side Software```
+- ```Rainbow CSV``` - ```mechatroner``` 
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+### v1.0.1
+- ```Dependi``` - ```Fill Labs```
+- ```Thunder Client``` - ```Thunder Client```
+- ```Material Icon Theme``` - ```Philipp Kief```

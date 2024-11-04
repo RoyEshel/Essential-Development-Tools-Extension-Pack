@@ -2,7 +2,7 @@
     "name": "essential-development-tools-extension-pack",
     "displayName": "Essential Development Tools Extension Pack",
     "description": "Essential tools for development in VS Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "RoyEshel",
     "license": "MIT",
     "repository": {
@@ -21,6 +21,9 @@
         "VisualStudioExptTeam.intellicode-api-usage-examples",
         "streetsidesoftware.code-spell-checker",
         "streetsidesoftware.code-spell-checker-hebrew",
+        "fill-labs.dependi",
+        "rangav.vscode-thunder-client",
+        "PKief.material-icon-theme",
         "mechatroner.rainbow-csv"
     ]
 }
