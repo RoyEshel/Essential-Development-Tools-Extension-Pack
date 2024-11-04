@@ -10,7 +10,7 @@
 - Added Material Icon Theme.
 
 
-## v0.0.1 (Jul 18, 2024)
+## v0.0.1 (Jul 17, 2024)
 - Added IntelliCode.
 - Added IntelliCode Completions.
 - Added IntelliCode API Usage Examples.
