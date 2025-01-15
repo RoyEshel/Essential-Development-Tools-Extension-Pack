@@ -1,5 +1,8 @@
 # Change Log
 
+## v1.1.1 (Jan 15, 2025)
+- Added [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer).
+
 ## v1.1.0 (Nov 4, 2024)
 - Reformatted the changelog.
 
