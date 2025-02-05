@@ -1,5 +1,8 @@
 # Change Log
 
+## v1.1.2 (Feb 5, 2025)
+- Added [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf).
+
 ## v1.1.1 (Jan 15, 2025)
 - Added [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer).
 
